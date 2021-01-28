@@ -8,5 +8,10 @@ public class Main {
         FactorX.moon = 2;
         FactorX.planets = 2;
 
+        SUN troyo = new SUN();
+        troyo.heat = "567788k";
+        troyo.temperature = "345677788k";
+        troyo.radius = "97998777776km";
+
     }
 }
